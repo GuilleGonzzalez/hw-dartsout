@@ -56,10 +56,10 @@
         }
       ],
       "drc_exclusions": [
-        "silk_edge_clearance|111250000|124000000|e797aa4d-d975-4399-9c87-e9dcfca8a1c3|33827212-6e05-43fa-b08a-0da9e62974f8",
-        "silk_edge_clearance|93250000|124000000|e797aa4d-d975-4399-9c87-e9dcfca8a1c3|6c7a364f-a6a6-441f-9a19-e8a1858bdfed",
-        "silk_overlap|117547348|99875803|d34f0a53-2f53-41b3-854f-57a63ad296bd|50bcd753-1fd0-408e-af85-358fa02663f6",
-        "silk_overlap|117574683|98533241|d34f0a53-2f53-41b3-854f-57a63ad296bd|cc5bef17-b577-40d2-9a1a-d0a48e3bdbc8"
+        "silk_edge_clearance|110325000|124000000|e797aa4d-d975-4399-9c87-e9dcfca8a1c3|a67476bc-3525-41dc-825a-b49b53e763d2",
+        "silk_edge_clearance|92325000|124000000|e797aa4d-d975-4399-9c87-e9dcfca8a1c3|b5041d4f-5fd2-4956-9869-54e796500c70",
+        "silk_overlap|157514661|98628285|d34f0a53-2f53-41b3-854f-57a63ad296bd|cc5bef17-b577-40d2-9a1a-d0a48e3bdbc8",
+        "silk_overlap|157622348|99700803|d34f0a53-2f53-41b3-854f-57a63ad296bd|50bcd753-1fd0-408e-af85-358fa02663f6"
       ],
       "meta": {
         "version": 2
@@ -505,6 +505,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
